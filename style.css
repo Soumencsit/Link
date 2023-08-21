@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h3{
+    display: inline;
+}
+
+body{
+    height: auto;
+    width: 100vw;
+
+}
+/* .container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+
+.nav{
+    width: 100%;
+    height: 20%;
+
+    border: 2px solid black;
+    background-color: rgb(7, 7, 47);
+}
+
+.nav .navleft h2{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.content{
+    width: 100%;
+    border: 2px solid black;
+
+    padding: 1%;
+    margin-top: 4%;
+}
